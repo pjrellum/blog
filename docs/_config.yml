@@ -10,9 +10,9 @@
 title: Onboarding Kit
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  TenneT Onboarding Kit for GitHub
+  Onboarding Kit for GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://innersource-onboarding-kit.pages.tennet.ghe.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pjrellum.github.io/devfactors.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
